@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<Program> 
+   <Header RobotName="igus Arm" RobotType="igus_5DOF_BV" GripperType="" Software="iRC V902-11-023" /> 
+   <Joint AbortCondition="False" Nr="1" Source="Numerical" velPercent="50" acc="40" smooth="20" a1="0" a2="0" a3="0" a4="0" a5="0" a6="0" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="2" acc="40" smooth="20" MoType="cartbase" vel="100" x="0" y="0" z="100" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="3" acc="40" smooth="20" MoType="cartbase" vel="174.652587" x="44.607000" y="45.575000" z="42.884000" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="4" acc="40" smooth="20" MoType="cartbase" vel="163.819254" x="-86.078500" y="-93.735000" z="-86.075333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="5" acc="40" smooth="20" MoType="cartbase" vel="158.518942" x="80.095500" y="92.195000" z="89.296000" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="6" acc="40" smooth="20" MoType="cartbase" vel="153.142409" x="-73.233000" y="-96.790000" z="-91.927333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="7" acc="40" smooth="20" MoType="cartbase" vel="149.825059" x="72.447500" y="99.545000" z="94.977333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="8" acc="40" smooth="20" MoType="cartbase" vel="164.049273" x="-81.711000" y="-93.280000" z="-98.366000" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="9" acc="40" smooth="20" MoType="cartbase" vel="168.182872" x="88.854000" y="91.745000" z="92.138667" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="10" acc="40" smooth="20" MoType="cartbase" vel="149.110587" x="-79.832500" y="-94.115000" z="-74.677333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="11" acc="40" smooth="20" MoType="cartbase" vel="125.654488" x="60.984500" y="92.640000" z="66.279333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="12" acc="40" smooth="20" MoType="cartbase" vel="122.254818" x="-51.597000" y="-86.730000" z="-78.896667" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="13" acc="40" smooth="20" MoType="cartbase" vel="130.858900" x="53.354000" y="72.215000" z="88.667333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="14" acc="40" smooth="20" MoType="cartbase" vel="124.619415" x="-53.183500" y="-49.095000" z="-81.676667" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="15" acc="40" smooth="20" MoType="cartbase" vel="118.792759" x="47.629000" y="38.695000" z="82.606667" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="16" acc="40" smooth="20" MoType="cartbase" vel="141.599000" x="-47.306000" y="-43.415000" z="-106.134000" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="17" acc="40" smooth="20" MoType="cartbase" vel="167.824005" x="55.556500" y="66.135000" z="100.489333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="18" acc="40" smooth="20" MoType="cartbase" vel="160.766776" x="-68.010000" y="-88.395000" z="-114.110000" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="19" acc="40" smooth="20" MoType="cartbase" vel="153.338667" x="72.072500" y="83.075000" z="95.891333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="20" acc="40" smooth="20" MoType="cartbase" vel="141.984867" x="-64.988000" y="-64.805000" z="-90.980000" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="21" acc="40" smooth="20" MoType="cartbase" vel="132.920712" x="62.491500" y="54.955000" z="88.595333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="22" acc="40" smooth="20" MoType="cartbase" vel="131.712648" x="-69.021500" y="-59.355000" z="-73.892667" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="23" acc="40" smooth="20" MoType="cartbase" vel="127.344031" x="75.433500" y="77.490000" z="43.906000" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="24" acc="40" smooth="20" MoType="cartbase" vel="112.073681" x="-74.039000" y="-85.740000" z="-23.474000" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="25" acc="40" smooth="20" MoType="cartbase" vel="113.249637" x="69.190000" y="77.440000" z="36.390000" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="26" acc="40" smooth="20" MoType="cartbase" vel="121.356372" x="-66.944500" y="-69.810000" z="-63.486667" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="27" acc="40" smooth="20" MoType="cartbase" vel="130.954139" x="65.119500" y="59.715000" z="76.879333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="28" acc="40" smooth="20" MoType="cartbase" vel="116.947498" x="-59.947000" y="-48.685000" z="-67.877333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="29" acc="40" smooth="20" MoType="cartbase" vel="98.302119" x="54.952000" y="46.355000" z="46.383333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="30" acc="40" smooth="20" MoType="cartbase" vel="92.062650" x="-53.276500" y="-54.475000" z="-33.102667" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="31" acc="40" smooth="20" MoType="cartbase" vel="94.530164" x="51.848000" y="58.450000" z="38.098000" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="32" acc="40" smooth="20" MoType="cartbase" vel="96.835831" x="-49.069000" y="-60.380000" z="-54.351333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="33" acc="40" smooth="20" MoType="cartbase" vel="101.770077" x="45.979500" y="52.570000" z="64.578667" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="34" acc="40" smooth="20" MoType="cartbase" vel="91.695186" x="-43.941500" y="-43.960000" z="-60.427333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="35" acc="40" smooth="20" MoType="cartbase" vel="89.067621" x="43.704500" y="51.320000" z="50.689333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="36" acc="40" smooth="20" MoType="cartbase" vel="87.662232" x="-42.183000" y="-55.540000" z="-46.544667" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="37" acc="40" smooth="20" MoType="cartbase" vel="80.199559" x="36.234000" y="59.690000" z="47.178667" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="38" acc="40" smooth="20" MoType="cartbase" vel="70.028095" x="-30.531000" y="-61.575000" z="-43.438000" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="39" acc="40" smooth="20" MoType="cartbase" vel="59.663105" x="29.111500" y="50.060000" z="33.638000" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="40" acc="40" smooth="20" MoType="cartbase" vel="58.703189" x="-30.334500" y="-29.340000" z="-30.389333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="41" acc="40" smooth="20" MoType="cartbase" vel="68.293439" x="32.978000" y="18.340000" z="43.144667" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="42" acc="40" smooth="20" MoType="cartbase" vel="84.110621" x="-36.361500" y="-27.415000" z="-61.516000" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="43" acc="40" smooth="20" MoType="cartbase" vel="99.366664" x="39.080500" y="56.025000" z="73.320667" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="44" acc="40" smooth="20" MoType="cartbase" vel="113.462625" x="-39.933000" y="-79.495000" z="-82.025333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="45" acc="40" smooth="20" MoType="cartbase" vel="128.201495" x="38.649500" y="75.735000" z="95.063333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="46" acc="40" smooth="20" MoType="cartbase" vel="141.734676" x="-40.463500" y="-69.420000" z="-108.081333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="47" acc="40" smooth="20" MoType="cartbase" vel="153.553551" x="49.820000" y="71.880000" z="118.066667" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="48" acc="40" smooth="20" MoType="cartbase" vel="176.711653" x="-64.241500" y="-71.685000" z="-130.157333" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="49" acc="40" smooth="20" MoType="cartbase" vel="191.911460" x="72.587500" y="74.630000" z="141.990667" e1="0" e2="0" e3="0" Descr="" /> 
+   <Relative AbortCondition="False" Nr="50" acc="40" smooth="20" MoType="cartbase" vel="193.218730" x="-71.621500" y="-81.970000" z="-142.281333" e1="0" e2="0" e3="0" Descr="" /> 
+  
+</Program>
